@@ -1,0 +1,354 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The irregularitie of a private prayer in a publick congregation in a letter to a friend.</title>
+            <author>Sherlock, R. (Richard), 1612-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 48 KB of XML-encoded text transcribed from 12 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A59765</idno>
+            <idno type="STC">Wing S3241</idno>
+            <idno type="STC">ESTC R25624</idno>
+            <idno type="EEBO-CITATION">09029686</idno>
+            <idno type="OCLC">ocm 09029686</idno>
+            <idno type="VID">42305</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A59765)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42305)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1294:24)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The irregularitie of a private prayer in a publick congregation in a letter to a friend.</title>
+                  <author>Sherlock, R. (Richard), 1612-1689.</author>
+               </titleStmt>
+               <extent>21 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Oxford? :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Richard Sherlock--NUC pre-1956 imprints.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Church of England --  Customs and practices.</term>
+               <term>Prayer.</term>
+               <term>Theology, Practical.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Sampled and proofread</change>
+         <change>
+            <date>2011-07</date>
+            <label>Holly Beeman</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:42305:1"/>
+            <pb facs="tcp:42305:1" rendition="simple:additions"/>
+            <p>THE IRREGULARITIE OF A PRIVATE PRAYER IN A PUBLICK CONGREGATION.</p>
+            <p>In a Letter to a Friend.</p>
+            <figure>
+               <figDesc>printer's or publisher's device</figDesc>
+            </figure>
+            <p>ANNO DOMINI, 1674.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:42305:2"/>
+            <pb n="1" facs="tcp:42305:2"/>
+            <head>THE IRREGULARITIE of a <hi>Private</hi> Prayer in a <hi>Publick Congregation.</hi>
+            </head>
+            <opener>
+               <salute>Sir,</salute>
+            </opener>
+            <p>I Have ſent you herein my repeated and enlarged Thoughts, upon what was once the ſubject of our ſerious diſcourſe; wherein I would not at all diſpa<g ref="char:EOLhyphen"/>rage, or in the leaſt undervalue, the <hi>private</hi> prayers and devotions of any perſon, whether of the <hi>Laity</hi> or <hi>Clergie,</hi> whether thoſe prayers be by <hi>himſelf</hi> com<g ref="char:EOLhyphen"/>poſed, or by <hi>others,</hi> whether they be <hi>premeditated,</hi> or ſometimes <hi>ejaculatorie;</hi> whether <hi>fixed,</hi> or <hi>occaſionall; orall</hi> or <hi>mentall;</hi> for thus, and all theſe waies, every truly religious Chriſtian prays and undoubtedly findes the benefit, and feels the comfort of ſuch holy breathings-forth of his Soul unto Heaven in his private receſſes.</p>
+            <p>But that any Perſon, eſpecially ſuch who have entred into ho<g ref="char:EOLhyphen"/>ly Orders in this Church of <hi>England,</hi> ſhould preſume to uſe any Prayers in <hi>Publick</hi> of his own <hi>private conception,</hi> whether pre<g ref="char:EOLhyphen"/>meditate, or extemporary, before, or after his Sermon, other than thoſe Prayers, which are by publick Authority allowed, and publiſhed to that end; I humbly conceive (with ſubmiſ<g ref="char:EOLhyphen"/>ſion to my Superiors) to be unlawfull in ſeveral reſpects.</p>
+            <p>Firſt. <hi>Tis a Diſorder and Confuſion in the ſervice of God:</hi> For thus the <hi>Publick</hi> and <hi>Private</hi> worſhip of God are confound<g ref="char:EOLhyphen"/>ed, whilſt thoſe <hi>Private Prayers,</hi> which our Lord hath con<g ref="char:EOLhyphen"/>ſined to the private cloſet, do yet, contrary to his expreſs com<g ref="char:EOLhyphen"/>mand
+<pb n="2" facs="tcp:42305:3"/>appear in <hi>Publick</hi> and uſurp the place of his Pub<g ref="char:EOLhyphen"/>lick Service in the Congregation. The holy duties of <hi>Pub<g ref="char:EOLhyphen"/>lick</hi> and <hi>Private</hi> Prayers, as they are diſtinct in their <hi>own</hi> na<g ref="char:EOLhyphen"/>ture, and conſtant uſe, ſo they are diſtinguſhed by our Lord, and diſtinct rules preſcribed for the diſtinct and diſcreet per<g ref="char:EOLhyphen"/>formance of either Duty. <hi>Firſt,</hi> For <hi>Private Prayer</hi> Matt. 6.6. <hi>When thou Prayeſt, enter into thy cloſet</hi> — ſpeaking in the ſin<g ref="char:EOLhyphen"/>gular number to every particular perſon. <hi>Secundly,</hi> For Publick Prayer v. 7. <hi>but when yee Pray uſe not vain repetitions</hi> — ſpeak<g ref="char:EOLhyphen"/>ing in the plurall number to many aſſembled together: where, to avoid the Heatheniſh practiſe of much ſpeaking, or multitu<g ref="char:EOLhyphen"/>dinous words in Prayer, <hi>v.</hi> 8. a ſhort and moſt excellent Form is given us <hi>v.</hi> 9. Thus then <hi>publick</hi> Prayer being diſtinguiſh<g ref="char:EOLhyphen"/>ed by our Lord from <hi>private,</hi> we are thereby forbidden to confound them in their uſe, and practiſe: 1. Cor. 14.40: <hi>Let all things be done decently and in order:</hi> not prepoſterouſly and diſorderly, one part of divine worſhip undermining another, and the leſſer and more particular Duty uſurping upon the greater; and more general religious Office.</p>
+            <p>
+               <hi>Secondly,</hi> 'Tis not only a <hi>diſorderly,</hi> but alſo an <hi>unreaſonable Service,</hi> and ſo not likely to be acceptable to him, who is both the God of order, and of wiſdom. And the unreaſonableneſs of this <hi>Private</hi> Prayer in <hi>Publick,</hi> will appear, by conſidering; That all prayers offered up unto God in Publick, muſt be pub<g ref="char:EOLhyphen"/>lickly known, conſented unto, and agreed upon (which the <hi>Pri<g ref="char:EOLhyphen"/>vate</hi> prayer generally is not) by all them that joyn therein: up<g ref="char:EOLhyphen"/>on which agreement (and not otherwiſe) Chriſt hath promiſed his preſence, <hi>viz,</hi> to hear our Prayers, and grant our requeſts, Mat. 18.19, 20. <hi>Again I ſay unto you; If two of you ſhall a<g ref="char:EOLhyphen"/>gree upon Earth, touching any thing they ſhall ask, it ſhall be done unto them of my Father, which is in Heaven: for where two or three are gathered together, there am I in the midſt of them;</hi> whereupon ſaith the Gloſs out of <hi>Origen, This is the cauſe we are not heard when we pray, in that we agree not in all things,—For as in Mu<g ref="char:EOLhyphen"/>ſick, there muſt be harmonie and agreement of voices, or elſe it de<g ref="char:EOLhyphen"/>lights not the hearer; ſo in the Church, an aſſent and agreement is
+<pb n="3" facs="tcp:42305:3"/>neceſſarie, or elſe God is not pleaſed, neither will he hear the voice of our prayers.</hi> 'Tis this <hi>agreement</hi> in prayer, that denomitates our publick worſhip of God, <hi>Common-Prayer:</hi> becauſe agreed upon by <hi>common</hi> conſent, which doth preſuppoſe; that 'tis known to all, that all may joyn therein: So it was ever in the Church of Chriſt; the faithful knew, what they prayed for; and this, not at the ſecond hand, from the mouth of the Miniſter, but before they joyned with him; So Saint <hi>Chryſoſtome:</hi>
+               <note place="margin">Chryſ. Hom <hi>6.</hi> in Tim.</note> 
+               <hi>You that are faithful know, what things are to be deſired in prayer, becauſe all prayer,</hi> viz. <hi>that is in Publick, ought to be common:</hi> 'Tis the Exhortation of <hi>Ignatius,</hi>
+               <note place="margin">Ignnat. Ep. ad Magn.</note> who lived in the times of the Apoſtles and ſaw our Lord in the fleſh, <hi>That we aſſemble together in one place and uſe one prayer common to all:</hi> For if the prayers of a Congregation be not known, common and agreed: Then</p>
+            <p>
+               <hi>Firſt,</hi> The People cannot joyn therein it being little leſs <hi>than the ſacrifice of fools,</hi> for men to ask of God, they know not what; but wholly depend upon the Miniſters unknown expreſſions.</p>
+            <p>
+               <hi>Secondly,</hi> A Prayer, that is unknown before it be offered up, is to an Engliſh man, though ſpoke in <hi>Engliſh,</hi> as a Latine prayer to him, who underſtands no <hi>Latine,</hi> for they are both lame, and maimed, and cannot ſtand with common ſenſe, except they make uſe of that Crutch, which we ſo much blame in the Papiſts, <hi>viz. an implicite faith</hi> to ſupport them; and both the one and the o<g ref="char:EOLhyphen"/>ther do equally tranſgreſs that rule of prayer preſcribed by the Apoſtle, 1 <hi>Cor.</hi> 14.15. <hi>I will pray with the ſpirit, and will pray with underſtanding alſo.</hi>
+            </p>
+            <p>
+               <hi>Thirdly, It is againſt both the judgment and practice of the Uni<g ref="char:EOLhyphen"/>verſal Church of Chriſt,</hi> no footſteps thereof are to be found in Antiquitie, but many Canons of the Church againſt it, where<g ref="char:EOLhyphen"/>of ſome are noted in the Margin.<note n="(a)" place="margin">Concil. Leodic. cel. Anno. <hi>320.</hi> Can. <hi>15.17.</hi> &amp; nlt. Concil. Milevit. <hi>2d.</hi> An. <hi>416.</hi> Can. <hi>12.</hi> Concil. Epaunenſ. celeb. An. <hi>509.</hi> Concil. Gerund. celeb. An. <hi>516.</hi> c. <hi>1.</hi> Cocil. Tolet. quart. Can. <hi>2.</hi> Concil. Venet. celeb. An. <hi>452.</hi> Can. <hi>15.</hi> Concil. Bracor. <hi>1.</hi> celeb. An. Can. <hi>562.19.</hi> &amp; <hi>20.</hi> &amp; <hi>22.</hi> Concil. Vaſen. celeb. <hi>442.</hi> Can. <hi>5, 6,</hi> &amp; <hi>7.</hi>
+               </note>
+            </p>
+            <pb n="4" facs="tcp:42305:4"/>
+            <p>
+               <hi>Fourthly, 'Tis a tranſgreſſion of the Laws and Orders of this par<g ref="char:EOLhyphen"/>ticular Church of England,</hi> and this occompanied with the breach of that ſolemn promiſe, which every Miniſter, lawfully Or<g ref="char:EOLhyphen"/>dained, hath made: no man being admitted into holy Orders, until he hath atteſted the <hi>lawfulneſs of the book of Common Prayer, and promiſed, that he himſelf will uſe the ſame and no other in publick,</hi> ſubſcribing with his own hand this atteſtation and pro<g ref="char:EOLhyphen"/>miſe: ſo that the contrary practice in the uſe of any <hi>Private</hi> prayer by any Miniſter of this Church, is a breach of <hi>Fidelitie</hi> to the Church, and to the Reverend <hi>Biſhop</hi> that Ordained him.</p>
+            <p>
+               <hi>Fiftly, 'Tis alſo a Tranſgreſſion of the Common Law of the Land,</hi> which in the Acts of Parliament for Uniformitie in Common-prayer, both old and new, enjoyns peremptorily, under ſevere penalties, <hi>That no man ſhall uſe any prayer openly</hi> or in pub<g ref="char:EOLhyphen"/>lick, <hi>but ſuch as are ſet forth in the ſaid book:</hi> ſo that both in this and in the former reſpects 'tis an act of Diſobedience to the Higher Powers, and breach of the fifth Commandement.</p>
+            <p>I might adde, in the laſt place, the Non-conformitie of this Practice with all other Proteſtant Communicants beyond the Seas, their Miniſters being neither fond of it themſelves, nor permitted ſuch a Liberty by their Governors.</p>
+            <p>
+               <hi>Object.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But to ſolve all theſe Particulars, 'tis ſaid, A <hi>Private</hi> Prayer before Sermon is allowed, nay enjoyned by the 55 Ca<g ref="char:EOLhyphen"/>non of the Church: which is called indeed <hi>a Form of Prayer,</hi> but therein the Miniſter is not bound up to the uſe of the ſame words, but may pray <hi>to that effect.</hi>
+            </p>
+            <p>Anſw. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> 
+               <hi>Firſt,</hi> But ſurely, there is no man, that underſtandeth ſenſe, and is not blinded with prejudice, will ſay, That the Form preſcribed in the Canons, is a <hi>Form</hi> of prayer, but an <hi>Ex<g ref="char:EOLhyphen"/>hortation</hi> only to move the people to joyn in prayer <hi>for Christs Holy Catholick Church, for the Kings Majeſtie, for</hi>—and 'tis moſt properly called <hi>a bidding of prayer.</hi> And 'twas Mr. <hi>Cart<g ref="char:EOLhyphen"/>wright,</hi> that Ring-leader of the Puritan-Faction in the time of Q. <hi>Elizabeth,</hi> who firſt turned this Bidding prayer, into a long
+<pb n="5" facs="tcp:42305:4"/>prayer of his own head, and 'twas the very engine, hereby he and his followers undermined the Common Prayers of the Church.</p>
+            <p>Anſw. <hi>Second.</hi> It is a very unſeemly thing (if ſeriouſly conſi<g ref="char:EOLhyphen"/>dered) to tell the Great King of Heaven (by way of prayer to him) that the Kings Majeſtie is King of <hi>England, Scotland, &amp;c. Defendor of the Faith, &amp;c.</hi> or to tell him of <hi>ſuch or ſuch a Lord,</hi> that he is <hi>Earl of ſuch or ſuch a Place — Lord of ſuch; one of the Privy Councel — his very good Lord and Patron:</hi> clauſes with ſeveral particulars in that Canon are very impro<g ref="char:EOLhyphen"/>per to be ſaid unto God by way of Prayer, but not ſo by way of Exhortation <hi>unto</hi> Prayer.</p>
+            <p>
+               <hi>Thirdly,</hi> Becauſe the Obſervance of this Canon was ob<g ref="char:EOLhyphen"/>noxious to the cenſure and exceptions of many, who deſired an abſolute Prayer in ſtead of that <hi>bidding</hi> Form, it was propoſed at the Convocation held <hi>An.</hi> 1640. that it might be ſo order<g ref="char:EOLhyphen"/>ed; and accordingly there was a ſhort Prayer drawn up, com<g ref="char:EOLhyphen"/>prizing all the heads of the Canon; The which, notwith<g ref="char:EOLhyphen"/>ſtand the confidence ſome had of its univerſal reception, was rejected by the moſt Reverend Arch-Biſhop, who judged it neither ſafe nor fitting to alter that Ganon, which was founded on the Injunctions of <hi>Queen Elizebeth</hi> and <hi>King Edward</hi> 6. at the firſt Reformation; which ſufficiently evinceth the ſaid Canon to be no Prayer, not yet lawfull to be altered and uſed <hi>Prayerwiſe.</hi>
+            </p>
+            <p>
+               <hi>Fourthly, 'Tis a preſumptuous uſurpation and Affront upon the Church of Chriſt,</hi> for any man to thruſt himſelf, upon ſuch a Miniſteral Office, as he is not by the Authority of the Church entruſted withall, and whoſoever acts the <hi>Presbyterian</hi> in this <hi>particular becomes Independant;</hi> the one having no more juſt Anthority derived from the Church, that ordained him, to uſe ſuch a private Prayer of his own in <hi>Publick,</hi> than the other hath either to Preach, or Pray in Publick, being not admitted into holy Orders, nor lawfully called thereunto.</p>
+            <p>
+               <hi>Fiftly, 'Tis an Innovation in Religion,</hi> a new up-ſtart pra<g ref="char:EOLhyphen"/>ctiſe, brought into the Church not above 70 years ago, and may
+<pb n="6" facs="tcp:42305:5"/>therefore be reckoned <hi>inter profonas vocum novitates,</hi> which the Apoſtle admoniſhed to <hi>avoid, even all profane and vain bab<g ref="char:EOLhyphen"/>lings,</hi>
+               <note n="(a)" place="margin">1 <hi>Tim.</hi> 6.20.</note> canting language, <hi>new words,</hi> and <hi>new waies,</hi> ſuch as are contrary to thoſe <hi>old paths,</hi> and thoſe <hi>good wais</hi> which the Lord commands us <hi>to enquire after and to walk therein.</hi>
+               <note place="margin">
+                  <hi>Jer.</hi> 16.16.</note> And ſuch <hi>New wais</hi> are fitly called profane, <hi>quaſi procul a fano,</hi> ſaith the Commentator,<note place="margin">Lyr. in Loc.</note> becauſe fat from the Temple, or different from the words and wais of Chriſts Church, and contrary to the Apoſtles <hi>depoſitum tene,</hi>
+               <note place="margin">1 <hi>Tim.</hi> 6.</note> in the following words, <hi>hold faſt that which is committed to thee. i. e.</hi> ſaith the Father, <hi>quod tibi cre<g ref="char:EOLhyphen"/>ditum, non quod a te inventum,</hi> what the Church, whereby thou art addmitted to the Miniſterial Function, hath commited to thy truſt, and commanded thee to obſerve, hold faſt that, keep cloſe to that, not following thine own fancy and invention to bring in what is New, which ever undermines the Old, and true way of Divine worſhip.</p>
+            <p>
+               <hi>Seventhly. If a call or command from God be herein pretend<g ref="char:EOLhyphen"/>ed, though not allowed by the Church, yet in this particular they are at aloſs,</hi> except they pretend immediate Revelation with the Enthuſiaſts: For there is neither command, nor example, in holy Writ, to juſtifie this private Prayer in Publick: we have many, Sermons of the Apoſtles upon record, but no Pray<g ref="char:EOLhyphen"/>er before any of them, ſo that this is an act of uſurpation, upon the Publick Divine Worſhip, a preſumption to do that, which God hath no where commanded, nor the Church of Chriſt allowed.</p>
+            <p>
+               <hi>Eighthly.</hi> Liberty being permitted for any perſon of what perſwaſion ſoever to vent his private conceptions by way of <hi>Prayer</hi> in Publick, <hi>opens a gap to Hereſie and Schiſm in the Church; to Sedition and Rebeltion, in the Kingdome,</hi> For their private errours and deſigns being inſerted in their Prayers, do inſinuate into the Affections; and more mightily enſſame the <hi>People,</hi> than by any other way of perſwaſion whatſoever; Old Truths being undermined by New wais of worſhip and vain bablings, the conſtant Parents of errors in the Faith<note n="(a)" place="margin">1. <hi>Tim.</hi> 6.20.21.</note>
+            </p>
+            <pb n="7" facs="tcp:42305:5"/>
+            <p>
+               <hi>Ninthly. Thus Separations and Diviſions, both amongſt Miniſters, and People are bred and nouriſhed:</hi> for whilſt one Miniſter, or gifted man (as ſuch are called) Prays thus, and thus, and another in a way, and with words diverſs from him: one ſort and Sect of men likes this mans way, method, and language, tone and geſture; another ſort is taken more with anothers way—Hence; <hi>One ſaith: I am of Paul; and ano<g ref="char:EOLhyphen"/>ther, I am of Apollo; and another, I of Cephas</hi>
+               <note n="(a)" place="margin">1 <hi>Cor.</hi> 1.12.</note> 
+               <hi>which is the life and being of Schiſm:</hi> the remedie whereof is; To obey that moſt pathetical exhortation: Now <hi>I beſeech you, Brethren, by the name of our Lord Jeſus Chriſt; that yee all ſpeak the ſame thing, That there be no diviſions amongſt you.</hi>
+               <note n="(b)" place="margin">1. <hi>Cor.</hi> 1.10.</note> To ſpeak the ſame thing and to uſe the ſame words in the Publick worſhip of God: or as the ſame Apoſtle; <hi>To glorify God with one minde and one mouth</hi> is the way to avoid diviſions and to take off the People from their partiality and fondneſs, in preferring one Miniſter before another, merely for their leſs, or more emi<g ref="char:EOLhyphen"/>nencie; in this unwarrantable way of Praying.</p>
+            <p>
+               <hi>Tenthly; By this Private Prayer, the Publick Prayers of the Church are implyed to be imperfect and deficient; are ſlight<g ref="char:EOLhyphen"/>ed, nay contemned and undermined.</hi> For they, with whom this way is in repute, generally ſlight, &amp; ſlubbour over the <hi>Com<g ref="char:EOLhyphen"/>mon-Prayer</hi> careleſsly, irreverently, and indevoutly; but to their own conceived Prayers give all the advantages of ſeem<g ref="char:EOLhyphen"/>ing zeal, both in their tone and language, elevation of eyes, hands—and no marvel then, that the one be ſo much ap<g ref="char:EOLhyphen"/>plauded by the vulgar, and the other ſlighted; eſpecially when they are perſwaded by theſe Enthuſiaſts; that Common-Prayer and all the Ceremonies in that celebration are taken out of the Maſs-book; that they are but a dead letter and the invention of man, whereas the <hi>private, conceived</hi> Prayer, is no leſs than the immediate influence of the holy Spirit of God;</p>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> At leaſt they ſay; That Prayers read in a Book, have not that quickning vigour in them, like to the Prayer Memoriter and without book; The one ſavours of the deadneſs of the Letter, the other of the quickning Spirit.</p>
+            <pb n="8" facs="tcp:42305:6"/>
+            <p>
+               <hi>Anſw.</hi> But in holy Prayer it is not the words ſaid, whe<g ref="char:EOLhyphen"/>ther <hi>written,</hi> or <hi>not written,</hi> whether ſaid <hi>within,</hi> or <hi>without</hi> Book; but the affectionate Zeal of him, that prays, that gives vigor and efficacy to this holy Duty; and where this is wanting, the fault is not in the Prayers themſelves; but in the Perſons, that profanely ſlight and undervalue them; the deadneſs, they talk of, lies in their own hearts, which are not touched with the quickening ſpirit of devotion, in the uſe of thoſe holy and good Prayers. And whoſoever is more affected with a conceived, than a written Prayer, thinks ſure, That the one is more immediately by inſpiration from Heaven than the <hi>o<g ref="char:EOLhyphen"/>ther,</hi>
+               <note place="margin">Orationis ſublimitas ex parte orantis non ex ſubli<g ref="char:EOLhyphen"/>mitate, vel ſubtilitate verborum, ſed humilitate &amp; devotionis affectu ejus qui oratpenſanda eſt. <hi>Jac. Alvar.</hi> de inquiſ. pac.</note> and ſo ſmells ſtrong of the Hereſie of Enthuſiaſm; I am ſure; To ſpeak fooliſhly and impertinently hath been uſually accounted, and called <hi>ſpeaking without Book.</hi>
+            </p>
+            <p>
+               <hi>Object.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>3</label> 3. There be many Epiſcopal Perſons, and ſuch, who both uſe, and are zealous for the Liturgie of the Church, do yet uſe <hi>Privat</hi> Prayer of their own before Sermon; the which ſurely they would never do, if they conceived it unlawful.</p>
+            <p>
+               <hi>Anſw.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> This is done, 'tis confeſt, by many Perſons of known worth and integritie: ſome with good intentions, to win upon ſuch Perſons, whom no other kind of Prayers will pleaſe; ſome, that their Private Prayer may be a Pattern, whereby their People may learn to pray in Private: and for theſe reaſons, I conceive, this practice hath been, and is ſtill over-look'd by Eccleſiaſtical Superiors: But in the gene<g ref="char:EOLhyphen"/>ral; this cuſtom is continued through inadvertency, in not conſidering, and deeply weighing the <hi>equity</hi> or <hi>iniquity, fitneſs</hi> or <hi>unfitneſs</hi> thereof: Nor can the practiſe of this, or any other cuſtom prove the ſame to be lawful. There is a great differ<g ref="char:EOLhyphen"/>ence betwixt <hi>conſuetudo</hi> and <hi>corruptela:</hi> the one is laudable, the other unlawful; many perſons alſo, that are eminent in know<g ref="char:EOLhyphen"/>ledge, and Pietie, in the general, may, through long cuſtom, and
+<pb n="9" facs="tcp:42305:6"/>many examples, fail in ſome particulars, through inconſi<g ref="char:EOLhyphen"/>deration: <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>4</label> Many alſo are induced thereunto, conceiving that variety of expreſſions, and change of Forms in Prayer do more work upon the Affections of the People, and ſtir up their Devotions, than one and the ſame conſtant ſtanding Form.</p>
+            <p>
+               <hi>Anſw.</hi> 1. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> This doth more tickle the itching ears of the People indeed; and the itching of the ears comes from the corruption of the heart: And ſurely their Devotion is very cold, that muſt be warmed by variety of expreſſions; the which in preaching may be commendable, but not in pray<g ref="char:EOLhyphen"/>ing, except by way of privat ejaculations, it being one deſign of exhortations, and moving admonitions in Ser<g ref="char:EOLhyphen"/>mons, to excite the Affections to what is taught, and ex<g ref="char:EOLhyphen"/>horted unto: whereas holy Prayer is not the cauſe, but the effect and iſſue of devout Affections; and 'tis then only acceptable to God, when it comes from a heart replete with humility, compunction, fervor, and divine love; which do neceſſarily infer foreknowledg of the Prayers, we uſe; that they be ſuch, as whereby our devout Affections may be <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>xpreſſed.</p>
+            <p>
+               <hi>Anſw.</hi> 2. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>2</label> It is generally obſerved by the Maſters of Myſtical Theology, and Spiritual Life; That there is a <hi>ſenſible Devotion,</hi> which begins in the ſenſitive nature, pro<g ref="char:EOLhyphen"/>ducing tenderneſs of ſpirit, drawing often ſighs from the boſome, and tears from the eyes, and begets a ſecret de<g ref="char:EOLhyphen"/>lectation and ſweetneſs in the ſoul; with which many per<g ref="char:EOLhyphen"/>ſons are much taken and tranſported, as conceiving ſuch pleaſing delights in Prayer to be no other than the influ<g ref="char:EOLhyphen"/>ences of the holy Spirit of God. And yet this exterior pleaſure of a ſenſible Devotion is not always a ſign of a ſound and right temper of holineſs in the ſoul:<note place="margin">Jac. Alha. de inquiſ. pac. lib. <hi>2.</hi> par. <hi>3.</hi> cap. <hi>3.</hi> Sancti Soph. Treat. <hi>3.</hi> ſerm. <hi>2.</hi> c. <hi>5.</hi>
+               </note> Becauſe, <hi>Firſt;</hi> many wicked, irregenerate perſons may, and have en<g ref="char:EOLhyphen"/>joyed the ſame. <hi>Secondly;</hi> It may proceed from the natural temper. <hi>Thirdly;</hi> From the vehement intention of the minde. <hi>Fourthly;</hi> From the mournful tone, cadence of
+<pb n="10" facs="tcp:42305:7"/>words, and power of language. And ſuch ſenſible delights, even in Prayer, are ſometimes the inſinuations and illuſions of the Evil Spirit, to puff up the ſoul <hi>with ſelf-love, vain<g ref="char:EOLhyphen"/>glory, preſumption in God's favour, and comempt of others.</hi> I deny not, but ſuch ſenſible conſolations are often the influ<g ref="char:EOLhyphen"/>ences of the holy and true Spirit, given us for our encou<g ref="char:EOLhyphen"/>ragement in holy divine Offices, in the love of God and obedience: but there is great diſcretion and humility alſo required in the uſe we make of them; neither are we over<g ref="char:EOLhyphen"/>highly to eſteem of them (as the Caſuiſt<note n="(a)" place="margin">Conſola<g ref="char:EOLhyphen"/>tiones ſenſi<g ref="char:EOLhyphen"/>biles quamvis non ſunt de<g ref="char:EOLhyphen"/>ſpiciendae, non ſunt ta<g ref="char:EOLhyphen"/>men ſupra mo<g ref="char:EOLhyphen"/>dum aestiman<g ref="char:EOLhyphen"/>dae: quia nec verae virtutes, nec ſolidarum virtutum effectus nec neceſſaria profectus inſtrumenta ſine quibus plurimi admagnum virtutem ac mentis puritatem aſcendunt. <hi>Jac. Alv. ibid.</hi>
+               </note> obſerves) <hi>Be<g ref="char:EOLhyphen"/>cauſe they are neither true virtues, nor neceſſary effects of ſolid virtues, neither are they neceſſary inſtruments of proficiency in true devotion: For without ſuch ſenſible conſolations, many holy perſons have aſcended to a great height of virtue, and purity of minde.</hi>
+            </p>
+            <p>The ſtrongeſt Devotions, and moſt effectual Prayers, are ſeldomeſt attended with theſe ſenſible conſolations, and ſweetneſſes, which flow in upon variety of taking expreſſi<g ref="char:EOLhyphen"/>ons; for a great Devotion is like a great Grief, which is not ſo expreſſive in words, as a leſs moderate paſſion: a leſſer Grief alſo is waſted away by tears and complaints, whilſt the greater is both more ſilent and more laſting; ſo the leſs and more weak Devotion of the Soul, is breathed out and waſted in variety of language; not the ſolid, ſtrong, and laſting fervor. Such was the prevailing devotion of <hi>Moſes, when he fell down before the</hi>
+               <note n="(b)" place="margin">
+                  <hi>Deut.</hi> 9.18, 25.</note> 
+               <hi>Lord:</hi> and that of <hi>Hannah</hi> alſo, when ſhe prayed in the<note n="(c)" place="margin">1 <hi>Sam.</hi> 1.10, 11.</note> Temple: Their words in their prayers were few, and low, unheard; but their deſires and affections ſtrong, and prevalent, as being not waſted by much ſpeaking. And ſuch was that Devotion of our Lord in the Garden and on the Croſs, when he poured out his Soul in Prayers and Supplications with ſtrong crying and<note n="(d)" place="margin">
+                  <hi>Heb.</hi> 5.7.</note> tears: His words were few, but his
+<pb n="11" facs="tcp:42305:7"/>devotion great, and prevailing mightily; which devotion was neither begotten nor increaſed, nor poured forth in a ſloud of language and various expreſſions: <hi>for he went away</hi> (ſaith the holy Choſt) <hi>and</hi>
+               <note n="(e)" place="margin">
+                  <hi>Mat.</hi> 26.44.</note> 
+               <hi>prayed, ſaying the ſame words.</hi> So that ſetled and ſtinted Forms of Prayer, may be ex<g ref="char:EOLhyphen"/>preſſive enough of the greateſt Devotion: nor is God more pleaſed, or the Soul that prayeth, more profited by variety of expreſſions, though the exterior pleaſure of a ſenſible de<g ref="char:EOLhyphen"/>votion may be raiſed thereby.</p>
+            <p>
+               <hi>Object.</hi> 5. <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>5</label> But ſtinted Forms of Prayer cannot ſuit with all Tempers and Conditions: a Garment may as well be made to fit the changeable Moon, as one Form of Prayer to fit all men, or any one man at all times.</p>
+            <p>
+               <hi>Anſw.</hi> 1. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> 'Tis true; That limited Forms of Prayer cannot be fitted to every mans Fantaſie and Affection, eſpecially amongſt ſuch men, where ſuch Prayers are either ſuſpected or coldly entertained: but they may be fitted to all mens <hi>neceſſities,</hi> though not to their <hi>curioſities;</hi> they may be ſuch, as may ſufficiently ſerve every mans <hi>duty,</hi> though not pleaſe all mens <hi>fantaſies.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 2. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>2</label> Though they ſuit not with every mans parti<g ref="char:EOLhyphen"/>cular <hi>condition</hi> in all circumſtances, 'tis no argument a<g ref="char:EOLhyphen"/>gainſt them; for that would conclude againſt all Laws whatſoever, wherein 'tis impoſſible to make proviſion for all particular circumſtances and accidents, that occur: 'tis ſufficient, that all Publick Sanctions do ſecure the Publick Intereſt, and whatſoever hath influence upon Publick So<g ref="char:EOLhyphen"/>cieties and Communities of men.</p>
+            <p>
+               <hi>Anſw.</hi> 3. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>3</label> Every mans Private Condition, wherein he may be ſeparate from the Publick, is to be fitted by his private Prayers; and therein he hath liberty to expatiate himſelf, and enjoy all thoſe fancied benefits, and ſelf<g ref="char:EOLhyphen"/>pleaſing ſweetneſſes, which variety and liberty can afford
+<pb n="12" facs="tcp:42305:8"/>him; that which cannot be expected in publick Prayers, which are of a publick Nature and Deſign, ſuiting with publick Intereſts, the Duties and Conditions of all Chriſti<g ref="char:EOLhyphen"/>ans; and providing alſo for publick Events, that are either probable, or can be reaſonably foreſeen.</p>
+            <p>
+               <hi>Anſw.</hi> 4. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>4</label> There are many Circumſtances, relating to par<g ref="char:EOLhyphen"/>ticular mens conditions, that are not fit to be inſerted in the publick Service of the Church, or to be mentioned in <hi>Publick.</hi> It is more ſafe and prudent, to recommend many things unto God in general expreſſions, than to inſiſt par<g ref="char:EOLhyphen"/>ticularly and poſitively upon them, eſpecially in ſuch things as are temporal and worldly, wherein men are more apt to be poſitive, and expreſſive than becometh. Our bleſſed Saviour knew well enough the particular wants and conditions of his Diſciples, when they begg'd of him to be taught to pray; yet he deſcends not to any enumera<g ref="char:EOLhyphen"/>tion of thoſe particulars, but gives them a Form of Prayer, in general terms, becauſe it was for a publick uſe and be<g ref="char:EOLhyphen"/>nefit.</p>
+            <p>
+               <hi>Anſw.</hi> 5. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>5</label> If any defects, and inconveniencies, be fancied in thoſe devout and accurate Prayers of the Church, which have been framed and approved by the long experience of 1600. years, to fit all publick concerns, and meet with all neceſſary conditions, to be commended unto God in pub<g ref="char:EOLhyphen"/>lick; how much more, may we fear, the many <hi>inconveni<g ref="char:EOLhyphen"/>encies, diſorders, irregularities</hi>— in the private Prayer, though pretended to compleat and fill up the emptineſs of the publick? The <hi>defects,</hi> the <hi>impertinencies, tautologies, errors</hi> and <hi>blaſphemies</hi> of many ſuch privat Prayers are ob<g ref="char:EOLhyphen"/>vious to each mans obſervation.</p>
+            <p>
+               <hi>Object.</hi> 6. <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>6</label> 'Tis further ſaid; That it may as well be or<g ref="char:EOLhyphen"/>dered; That one common Sermon ſhould be preached in all Churches, and at all times, as that one common Prayer ſhould be conſtantly uſed, and no other.</p>
+            <pb n="13" facs="tcp:42305:8"/>
+            <p>
+               <hi>Anſw.</hi> 1. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>1</label> The Church doth indeed truſt all her Prieſts and Deacons to <hi>preach</hi> to the People and by way of Ser<g ref="char:EOLhyphen"/>mon to exerciſe their gifts, for the edification of others; wherein variety of expreſſions are very uſeful to move, ex<g ref="char:EOLhyphen"/>cite, admoniſh, exhort, reprove— which are the ends of <hi>preaching,</hi> not ſo of <hi>praying:</hi> as before was obſerved.</p>
+            <p>
+               <hi>Anſw.</hi> 2. <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>2</label> If the Miniſter chance to fail by impertinent, tedious, or any irregular expreſſions in <hi>preaching,</hi> the mat<g ref="char:EOLhyphen"/>ter is of leſs moment than to err in <hi>prayer:</hi> Becauſe, <hi>First;</hi> It is more ſafe to be bold with the People than with the great Majeſty of Heaven; the People may pardon an in<g ref="char:EOLhyphen"/>diſcretion, a rudeneſs, a miſtake, if any ſuch happen in a Sermon; but that boldneſs, or impudence rather, which ventures to offer up unto God their miſtakes and indecent expreſſions, is not ſo venial and eaſily pardonable. <hi>Se<g ref="char:EOLhyphen"/>condly,</hi> Sermons to the People are but the means, not any eſſential parts of Gods worſhip it ſelf: but holy Prayer is a part and the principal part of Gods outward worſhip; ſo that to miſtake and err in the one, is but <hi>indiſcretion,</hi> if not wilful; but to err in the other is <hi>impiety</hi> and <hi>irregligion.</hi> A miſtake, a falſhood in Prayer, is <hi>not a lye unto men, but unto God:</hi>
+               <note n="(a)" place="margin">
+                  <hi>Acts</hi> 5.4, 5.</note> The great Sin for which <hi>Ananias</hi> and <hi>Sapphira</hi> were ſtruck with ſudden death. Which ſhould ſtrike the hearts of all men with ſuch an awful fear, as not to dare to utter any thing unto God, that may prove falſe, or be im<g ref="char:EOLhyphen"/>proper to be ſpoken; nor yet to go beyond what they are authoriz'd to ſay in publick by the commands of God and of his Church.</p>
+            <p>
+               <hi>Object.</hi> 7. <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>7</label> Our Saviour prayed Extempory, and by the Spirit; and his Prayer (<hi>John</hi> 17.) was long, and no part of a Liturgy.</p>
+            <p>
+               <hi>Anſw.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> Thoſe Prayers of our Lord, which are recorded, were not Extempory, but ſet Forms, and parts of the Jewiſh Liturgy in the Temple; which might be proved
+<pb n="14" facs="tcp:42305:9"/>by particulars, if it were not too tedious to be here inſert<g ref="char:EOLhyphen"/>ed: And his prayer <hi>Joh.</hi> 17. was a privat, not a publick Prayer: 'twas deſigned indeed to a publick uſe and benefit, not offered up in Publick, and with his Diſciples, though for, and in their behalf: and 'twas a prayer, that was pro<g ref="char:EOLhyphen"/>per and peculiar to Chriſt alone, as the only Mediator be<g ref="char:EOLhyphen"/>twixt God and man, and ſo not to be drawn into an exam<g ref="char:EOLhyphen"/>ple.</p>
+            <p>
+               <hi>Object.</hi> 8. <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>8</label> 
+               <hi>Solomon</hi> pray'd in the Temple a <hi>Privat</hi> Pray<g ref="char:EOLhyphen"/>er of his <hi>own</hi> in <hi>Publick,</hi> 2 <hi>Chron.</hi> 6. So did <hi>Hezekias,</hi> 2 <hi>Chron.</hi> 30.18. So did <hi>Elijah</hi> the Prophet, 1 <hi>Kings</hi> 18.16. and St. <hi>Paul</hi> the Apoſtle, <hi>Acts</hi> 20.36.</p>
+            <p>
+               <hi>Auſw.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> All theſe prayers, with all others recorded in holy writ, were undoubtedly the immediate dictates of Gods holy Spirit, whereunto no man, without ſin and pre<g ref="char:EOLhyphen"/>ſumption, may pretend, at leaſt, not depend and relie there<g ref="char:EOLhyphen"/>upon. And as for St. <hi>Paul</hi>'s Prayer, <hi>Acts</hi> 20.36. whether 'twas a ſet Form or not, 'tis not expreſs'd, nor yet many of our Saviours prayers upon record, and ſo no argument <hi>pro</hi> or <hi>con</hi> to be drawn from thence.</p>
+            <p>
+               <hi>Object.</hi> 9. <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>9</label> The Fathers frequently began their Homilies with prayers, and St <hi>Paul</hi> himſelf began and ended his Epiſtles with prayers, and there is a prayer extant of Saint <hi>Ambroſe,</hi> which he uſed before his Sermon.</p>
+            <p>
+               <hi>Anſw.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> But what kind of Prayers theſe were is not con<g ref="char:EOLhyphen"/>ſidered, <hi>viz.</hi> Short Collects, or rather Ejaculations, im<g ref="char:EOLhyphen"/>ploring the Divine Aſſiſtance, which they uſed, not al<g ref="char:EOLhyphen"/>wais before, but ſomtimes in the midſt of their Sermons alſo, when they treated of ſome high myſtery of Godlineſs, or other matter of difficulty, or were tranſported with more than ordinary zeal to the practice of ſuch or ſuch a virtue, or the eradication of ſome reigning offence amongſt the People; as is frequent in many of St. <hi>Chryſoſt. Homi<g ref="char:EOLhyphen"/>lies:</hi>
+               <pb n="15" facs="tcp:42305:9"/>And of St. <hi>Ambroſe;</hi> he, being a Metropolitan, might ſurely aſſume ſuch a power, to compoſe a Prayer for his own uſe, which is not, nay ought not to be allowed to e<g ref="char:EOLhyphen"/>very inferior Presbyter. <hi>Secondly;</hi> Becauſe he uſed a ſhort Prayer, and this but ſomtimes before his Sermon, it doth not follow; That every green-headed Miniſter may uſe a Prayer of his own privat conception twenty times as long as the other, and ſo fully as far diſtant from the pattern, which our Lord hath given us, which is alſo anſwer ſuffici<g ref="char:EOLhyphen"/>ent to St. <hi>Paul</hi>'s example objected.</p>
+            <p>
+               <hi>Object.</hi> 10. <label type="milestone">
+                  <seg type="milestoneunit">Object. </seg>
+               </label> But St. <hi>Auguſtine</hi> affirms the neceſſity of this Prayer before Sermon, ſaying<note n="(a)" place="margin">Auguſt. de Doct. Chriſtiana.</note> That Queen <hi>Eſther prayed for the temporal ſafty of her Nation, before ſhe ad<g ref="char:EOLhyphen"/>ventured to ſpeak before the King Ahaſuerus, that God would put into her mouth congruous words. How much more ought we to pray for the like gift, when we are to ſpeak for the eternal ſalvation of ſouls in the Word and Doctrine?</hi> And again, ſaith he, <hi>when the hour is come</hi> (to preach) <hi>before he opens his mouth, let him lift up his thirſting ſoul unto God.</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> It is undoubtedly a laudable practiſe, for every Preacher to pray for the Divine Aſſiſtance in his Sermons to the People. And this not only in the <hi>publick</hi> Prayers of the Church, but his <hi>privat</hi> alſo, betwixt God and his own ſoul; and this alſo, as the Father directs, before he opens his mouth in <hi>Publick.</hi> And ſuch was Queen <hi>Eſther's</hi> Prayer in privat, before ſhe publickly ſpake to the King; which makes rather againſt, than for the <hi>Privat</hi> Prayer in <hi>Publick</hi> for and with the whole Congregation: St. <hi>Auguſt.</hi> could not be guilty of any ſuch practiſe; for it was againſt his judgment, being himſelf one of the Two Hundred Fa<g ref="char:EOLhyphen"/>thers of that <hi>Milevitan</hi> Councel, wherein it was decreed; <hi>That no prayer ſhould be uſed in publick, but ſuch as were ap<g ref="char:EOLhyphen"/>proved in the Synod:</hi> Somtimes this Father did conclude his Sermon with an Exhortation, conceived in Form of a prayer. <hi>e. g. Converſi—Turning unto the Lord God, Fa<g ref="char:EOLhyphen"/>ther
+<pb n="16" facs="tcp:42305:10"/>Almighty, let us render him all poſſible thanks, beſcech<g ref="char:EOLhyphen"/>ing him of his great mercy, that he would vauchſafe to hear our prayers, and expell the Enemie from having any influence upon our thoughts and deſires, words and actions; that he would encreas our faith; govern our minds; fill us with ſpiritual <gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ogi<g ref="char:EOLhyphen"/>tations, and at laſt bring us to everlaſting huppineſs through Jeſus Chriſt.</hi>—which is not ſo much a Prayer, as an In<g ref="char:EOLhyphen"/>vitation to prayer, ſutable to the Form preſcribed in the Canon of our Church.</p>
+            <p>
+               <hi>Object.</hi> 11. The liberty of <hi>Privat</hi> prayer in <hi>Publick</hi> is the way to make an <hi>able Miniſtrie;</hi> whileſt thus they are put on to exerciſe and improve their Miniſterial gifts and graces.</p>
+            <p>
+               <hi>Anſw.</hi> 'Tis rather the way to make a <hi>Licentious, Fa<g ref="char:EOLhyphen"/>natick, Brain-ſick</hi> Miniſtry, and in proceſs of time no Mi<g ref="char:EOLhyphen"/>niſtry at all; for from this Practice it is; that ſo very many unlearned, unſtable ſouls have taken up the trade and proved as eminent, at leaſt as well approved of by the people for their gift of Prayer, as the moſt learned of their Tutorers therein.</p>
+            <p>And whoſoever ſhall impartially weigh, and without prejudice conſider it, he may obſerve, that this <hi>Privat</hi> pray<g ref="char:EOLhyphen"/>er in <hi>Publick,</hi> both in Church and at home, is the very life and ſoul of that Schiſm, and Diviſion, which is ſtill ſo perniciouſly kept up in this Church: 'Tis hereby main<g ref="char:EOLhyphen"/>tained more than by preaching and diſputes: 'Tis from hence that Parties do call their leaders <hi>Godly Miniſters,</hi> and themſelves <hi>the godly Brethren: The children that cry Abba Father: The choſen and familiar friends of God,</hi> from their over-ſaucy and familiar convers with God. This is that great Idol, whom all the world of Non-conformiſts on this ſide the pale of the Roman Church adore and worſhip, crying down the goodly frame of Gods worſhip in his Church under the notion of <hi>Idolatry, Superſtition,</hi> and <hi>Will-worſhip,</hi> that every one may <hi>ſet up his Idols in his own
+<pb n="17" facs="tcp:42305:10"/>heart,</hi> follow the ſway of their own imaginations, to be guilty themſelves of that <hi>Will-worſhip,</hi> which they falſly impute to the Church of Chriſt.</p>
+            <p>Upon this Rock many thouſand ſouls have ſuffered ſhipwrack, who have been otherwiſe piouſlly inclined: For being taken with <hi>holy language, religious tone</hi> and <hi>ſeeming zeal</hi> of this or the other perſon in their privat con<g ref="char:EOLhyphen"/>ceived Prayers, they have in reſpect thereof ſlighted, and undervalued even the Celeſtial Prayer of God the Son, all the divinely inſpired prayers of God the Holy Ghoſt re<g ref="char:EOLhyphen"/>corded in Holy Writ, with all the devout and excellent Prayers of the Church of Chriſt, which are framed after the pattern preſcribed by our Lord; commanded by the Higher Powers; uſed by the devout People of God in all ages and whereby many thouſand triumphant Saints in He-have pray'd themſelves into that blisfull place of Eternal Glory.</p>
+            <p>After all this; It would be conſidered;</p>
+            <p>That, as every error in Religion is very prolifick in bringing forth many others of the ſame miſhapen ſtamp and nature; ſo this erroneous way of divine worſhip, the uſe of a <hi>Privat Prayer</hi> in a <hi>Publick Congregation</hi> is alſo productive of many miſtakes, and falſhoods and deformed wais of worſhip in the management thereof; And</p>
+            <p n="1">1. Such privat Prayers in <hi>Publick</hi> are generally in the length of them: For <hi>Long Prayers</hi> are <hi>unlawful</hi>
+            </p>
+            <p>
+               <hi>Firſt;</hi> Becauſe they are prohibited, by our Lord, <hi>Mat.</hi> 6.7. <hi>When yee pray, uſe not vain repititions:</hi> which cannot be underſtood of the ſame Prayer repeated (which is falſly objected againſt the prayers of the Church) for ſo pray'd our Lord himſelf, and his example ſurely contradicts not his Doctrine; whoſe Prayer, when moſt earneſt in his De<g ref="char:EOLhyphen"/>ſires, was the ſame three times repeated, and a very ſhort Prayer alſo, <hi>Mat.</hi> 26.44. By <hi>vain repititions</hi> then muſt be
+<pb n="18" facs="tcp:42305:11"/>meant the repetitions of the ſame thing in other words. For <hi>Firſt;</hi> To uſe multitude of words, and variety of expreſſions in Prayer is <hi>vain, i. e.</hi> ſuperfluous; impertinent and to no purpoſe; ſince our Deſires may, and ought to be expreſſed in few words and pertinent. <hi>Secondly;</hi> Such are generally <hi>vain, i. e.</hi> empty and inſignificant, that have more noiſe than weight; more ſound than ſenſe, ſerving only to fill up the time, to amuſe the mindes, and tickle the itching eares of the Hearers.</p>
+            <p>That ſuch kinde of <hi>long Prayers</hi> are here forbidden by our Lord, is manifeſt.</p>
+            <p n="2">2ly; From the parallel Text quoted in the margin. <hi>Eccleſ.</hi> 5.2. <hi>Be not raſh with thy mouth, and let not thy heart be haſtie to utter any thing before God; for God is in Heaven and thou upon earth, therefore let thy words be few.</hi> And this Text in the margin quotes another to the ſame pur<g ref="char:EOLhyphen"/>poſe, <hi>Prov.</hi> 10.19. <hi>In the multitude of words there want<g ref="char:EOLhyphen"/>eth not ſin, but he, that refraineth his lips, is wiſe.</hi>
+            </p>
+            <p n="3">3ly; From the cuſtome of the Heathen; as it follows: <hi>
+                  <g ref="char:V">Ʋ</g>ſe not vain repetitions, as the Heathen do.</hi> It was the maner of the Heathen, ſaith the ordinarie Gloſs out of <hi>Cyprian,</hi> to endeavour rather to be eloquent, than devout in their Prayers; and to be lowd and clamorous rather than fervent and zealous. An example whereof we have, 1 <hi>Kings,</hi> 18.27. Where <hi>Elijah</hi> mocks the Preiſts of <hi>Baal</hi> calling upon their Pagan Deities: <hi>Crie alowd, for he is a God; either he is talking or he is purſuing or he is in a journey or peradventure he is aſleep and muſt be awaked.</hi> And accordingly they cried alowd, thinking, as our Saviour here ſaith; <hi>that they ſhould be heard for their much ſpeaking.</hi> And therefore, as it follows v. 18. <hi>Be not like unto them.</hi> It is a ſhame for Chriſtians in the Worſhip of the <hi>True</hi> God, to be like the Heathen in the worſhip of their <hi>Falſ</hi> and <hi>feigned</hi> Dieties. Our Duty is, to endeavour more for hu<g ref="char:EOLhyphen"/>mility, purity, and fervency in heart, than for glib, nimble and voluble tongues; to pray, not with multitude of words, and varietie of phraſes, but with pertinent and pithy ex<g ref="char:EOLhyphen"/>preſſions;
+<pb n="19" facs="tcp:42305:11"/>with ardency and godly zeal: and the reaſon follows: For</p>
+            <p>
+               <hi>Your heavenly Father knoweth, what things you ſtand in need of before you ask him:</hi> He is every where preſent, and knoweth all things, even the ſecret of all hearts; and there<g ref="char:EOLhyphen"/>fore, to court him with <hi>long</hi> and <hi>lowd</hi> Prayers implies our ignorance or misbelief of his perfections.</p>
+            <p>Againſt ſuch extravagancy in Prayers our Lord preſcribes us a Form, with command ſaying; <hi>After this manner pray yee,</hi> verſ. 9. <hi>i. e.</hi> as from the context is manifeſt, not after the maner of the Heathen, who think to be heard <hi>for their much ſpeaking,</hi> but after this manner, <hi>i. e.</hi> in few words, and ſuch as are pithy, and to purpoſe.</p>
+            <p>And, That 'tis the meaning of our Lord in this place; That all our Prayers ſhould be ſhort and not much exceed<g ref="char:EOLhyphen"/>ing the length of the Pattern, he hath given us, is mani<g ref="char:EOLhyphen"/>feſt,</p>
+            <list>
+               <item>1. Not only from the Context impartially weigh'd and underſtood: but</item>
+               <item>2. From the Practice of Chriſts Church, which is un<g ref="char:EOLhyphen"/>deniably the beſt and ſureſt Interpreter of Chriſts meaning in his words. And all the Prayers of the Church of Chriſt are, and ever were ſuch in all ages, in all places, amongſt all perſons, that are called Chriſtians: their Liturgies or Publick Prayers are ſhort and pithy, called therefore Collects; as being ſo many Collections of much matter in few words.</item>
+               <item>3. Such are all the Prayers of the Holy and True Spirit of God, which ſtand upon record in Holy Writ, both for uſe and imitation, <hi>viz.</hi> the whole Book of Pſalms, with many more; all which, though ſome of them be long, as to the whole Pſalm or Hymn, yet they are divided by Verſes into ſo many ſhorter Prayers.</item>
+               <item>4. Long Prayers are not only forbidden by our Lord, as the cuſtom of the Heathen; but alſo frequently reproved by him, as the practice of Hypocrites, <hi>Matth.</hi> 23.14. <hi>Mark</hi> 12.40. <hi>Luke</hi> 12.47.</item>
+               <pb n="20" facs="tcp:42305:12"/>
+               <item>5. By long and manifold ſad experience 'tis well known, and hath been often obſerved; That all long, conceived Prayers have been guilty of manifold infirmities; light, vain, and unſeemly expreſſions, not fitting to be offered up to the All-wiſe, All-glorious Majeſty of Heaven: yea, many falſhoods, many impieties and profanations, have been uttered in ſuch kind of Prayers, and what have been contradictory to the Religious Duties we owe to God and men.</item>
+               <item>6. If it be here ſaid; How can we be too long in our Prayers, ſince our Lord continued all night in Prayer, <hi>Luke</hi> 6.12. and ſaith alſo; That we ought <hi>alwais to pray, and not to faint,</hi> Luke 18.1. and his Apoſtle commands, <hi>Continus in prayers, and watch,</hi> Col. 4.2. and <hi>Pray without ceaſing,</hi> 1 Theſſ. 5.17. and how can theſe Commands be obey'd without long Prayers?</item>
+            </list>
+            <p>
+               <label type="milestone">
+                  <seg type="milestoneunit">Anſw. </seg>
+               </label> To this I anſwer; That there is a great difference be<g ref="char:EOLhyphen"/>tween long Prayers and praying long. The one is unlawful, becauſe forbidden and reprov'd by our Lord; the other is a Religious Duty, becauſe both commanded and practic'd by him: and therefore St. <hi>Auguſtin</hi> ſaith; <hi>Oratio plus gemitibus quam ſermonibus agitur; plus fletu quam afflatu.</hi> And 'tis thus, <hi>The Spirit helpeth our infirmities,</hi> by quickning our Devotions, and enflaming our Deſires; <hi>he maketh in<g ref="char:EOLhyphen"/>terceſſion for us;</hi> i. e. as the ſame Father, ſecretly incli<g ref="char:EOLhyphen"/>ning our hearts to intercede for us, <hi>with groanings that can<g ref="char:EOLhyphen"/>not be uttered,</hi> Rom. 8.26. From which Text it is apparent (quite contrary to the Enthuſiaſts ſenſe thereof) That 'tis inward groanings, not outward bellowings; the internal fervent deſires of the Soul, not multitude of words, which is the Proper work of the Holy Spirit in Prayer.</p>
+            <p>The Ordinary Gloſs out of St. <hi>Chryſoſtom</hi> asks the ſame Queſtion: <hi>If we muſt not uſe many words in our Prayers, how ſhall we pray without ceaſing, as 'tis commanded?</hi> And anſwers out of the ſame Father; <hi>That both are to be obſerv'd in our Religious Devotions:</hi> viz. 1. <hi>That our Prayers be ſhort. And</hi> 2ly, <hi>Frequent and cominued. So Chriſt hath both com<g ref="char:EOLhyphen"/>manded,
+<pb n="21" facs="tcp:42305:12"/>and alſo exemplified in his Perſonal Prayers. And St.</hi> Paul <hi>alſo; That our Prayers be ſhort, but often renewed; in few words, but with great devotion; ending briefly, and be<g ref="char:EOLhyphen"/>ginning afreſh; leaving ſome intervals, or ſpaces of time for the reinquickning and enkindling the fire of fervor and holy zeal in the Soul. And 'tis added, out of</hi> Caſſianus; <hi>The Fathers conceived it moſt uſeful to uſe ſhort, but frequent Pray<g ref="char:EOLhyphen"/>ers. To be frequent, that our Souls may cleave the more ſted<g ref="char:EOLhyphen"/>faſtly unto God, by often addreſſes to his Majeſty. To be ſhort, that we may quench the fiery darts of the Devil; who is moſt buſie to tempt us to dulneſs and deadneſs of heart in our Pray<g ref="char:EOLhyphen"/>ers; which he very eaſily effects, when the Prayers we ſay, or hear, are long, and continued without any intermiſſion.</hi>
+            </p>
+            <p>'Tis recorded of thoſe Primitive Chriſtians in <hi>Egypt,</hi> who were moſt famous for their tranſcendent Devotions, and great Auſterities in the exerciſe of Religious Duties; That their Prayers were many and often, night and day continued; and yet, That they were ſhort alſo: not only in their ſolemn Aſſemblies, and publick Offices of Devo<g ref="char:EOLhyphen"/>tion, but alſo; That their private Prayers were as ſo many Raptures, and Ejaculations, or Deſires, darted up into Heaven. For, as the Father ſaith hereupon; <hi>Abſit ab Ora<g ref="char:EOLhyphen"/>tione multa locutio, ſed non deſit multa precatio, ſi fervens per<g ref="char:EOLhyphen"/>ſeveret intentio. Let not our Devotions be accompanied with much ſpeaking, but much praying, ſo long as we can hold out in attention and fervency.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
